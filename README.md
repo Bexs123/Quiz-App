@@ -1,4 +1,4 @@
-#Quiz App using React, Redux and A Rest API
+# Quiz App using React, Redux and A Rest API
 
 # Getting Started with Create React App
 
