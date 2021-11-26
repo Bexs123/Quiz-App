@@ -1,3 +1,6 @@
+# Quiz App using React, Redux and A Rest API
+Followed along with a tutorial
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
